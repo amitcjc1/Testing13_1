@@ -18,6 +18,6 @@ public class Demo
 	System.out.println("Hello Main of GIT");
 	Demo d=new Demo();
 	d.m1();
-	
+	d.m2();
 	}
 }
